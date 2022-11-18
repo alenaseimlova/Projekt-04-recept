@@ -161,12 +161,13 @@ body {
 
     .hlavni-recept {
         flex: 1 33.33333%;
-        border-right: 1px solid white;
+      
 
     }
 
     .recept {
         min-height: 200px;
+        border-left: 1px solid white;
     }
 
 
